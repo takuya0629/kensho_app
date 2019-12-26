@@ -1,0 +1,2 @@
+module MiemasukaHelper
+end

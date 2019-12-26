@@ -1,0 +1,2 @@
+class MiemasukaController < ApplicationController
+end
